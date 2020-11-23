@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao04.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao04.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao04.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao04.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\bin\Debug\netcoreapp3.1\EstruturasDeRepeticao04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao04.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao04.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\EstruturasDeRepeticao04\obj\Debug\netcoreapp3.1\EstruturasDeRepeticao04.genruntimeconfig.cache

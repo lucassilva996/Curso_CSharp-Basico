@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\bin\Debug\netcoreapp3.1\Estruturas04.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\bin\Debug\netcoreapp3.1\Estruturas04.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\bin\Debug\netcoreapp3.1\Estruturas04.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\bin\Debug\netcoreapp3.1\Estruturas04.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\bin\Debug\netcoreapp3.1\Estruturas04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\bin\Debug\netcoreapp3.1\Estruturas04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\obj\Debug\netcoreapp3.1\Estruturas04.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\obj\Debug\netcoreapp3.1\Estruturas04.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\obj\Debug\netcoreapp3.1\Estruturas04.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\obj\Debug\netcoreapp3.1\Estruturas04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\obj\Debug\netcoreapp3.1\Estruturas04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\obj\Debug\netcoreapp3.1\Estruturas04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Estruturas04\obj\Debug\netcoreapp3.1\Estruturas04.genruntimeconfig.cache

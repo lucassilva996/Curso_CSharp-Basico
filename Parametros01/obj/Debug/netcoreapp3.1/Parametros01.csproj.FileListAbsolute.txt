@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\bin\Debug\netcoreapp3.1\Parametros01.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\bin\Debug\netcoreapp3.1\Parametros01.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\bin\Debug\netcoreapp3.1\Parametros01.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\bin\Debug\netcoreapp3.1\Parametros01.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\bin\Debug\netcoreapp3.1\Parametros01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\bin\Debug\netcoreapp3.1\Parametros01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\obj\Debug\netcoreapp3.1\Parametros01.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\obj\Debug\netcoreapp3.1\Parametros01.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\obj\Debug\netcoreapp3.1\Parametros01.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\obj\Debug\netcoreapp3.1\Parametros01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\obj\Debug\netcoreapp3.1\Parametros01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\obj\Debug\netcoreapp3.1\Parametros01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Parametros01\obj\Debug\netcoreapp3.1\Parametros01.genruntimeconfig.cache

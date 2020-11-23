@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\bin\Debug\netcoreapp3.1\Metodos02.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\bin\Debug\netcoreapp3.1\Metodos02.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\bin\Debug\netcoreapp3.1\Metodos02.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\bin\Debug\netcoreapp3.1\Metodos02.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\bin\Debug\netcoreapp3.1\Metodos02.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\bin\Debug\netcoreapp3.1\Metodos02.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\obj\Debug\netcoreapp3.1\Metodos02.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\obj\Debug\netcoreapp3.1\Metodos02.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\obj\Debug\netcoreapp3.1\Metodos02.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\obj\Debug\netcoreapp3.1\Metodos02.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\obj\Debug\netcoreapp3.1\Metodos02.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Metodos02\obj\Debug\netcoreapp3.1\Metodos02.genruntimeconfig.cache

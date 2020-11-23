@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Namespaces04/1.0.0": {
+        "runtime": {
+          "Namespaces04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespaces04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

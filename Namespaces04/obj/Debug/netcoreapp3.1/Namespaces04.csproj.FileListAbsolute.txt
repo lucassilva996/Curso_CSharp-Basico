@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\bin\Debug\netcoreapp3.1\Namespaces04.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\bin\Debug\netcoreapp3.1\Namespaces04.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\bin\Debug\netcoreapp3.1\Namespaces04.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\bin\Debug\netcoreapp3.1\Namespaces04.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\bin\Debug\netcoreapp3.1\Namespaces04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\bin\Debug\netcoreapp3.1\Namespaces04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\obj\Debug\netcoreapp3.1\Namespaces04.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\obj\Debug\netcoreapp3.1\Namespaces04.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\obj\Debug\netcoreapp3.1\Namespaces04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\obj\Debug\netcoreapp3.1\Namespaces04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\obj\Debug\netcoreapp3.1\Namespaces04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Namespaces04\obj\Debug\netcoreapp3.1\Namespaces04.genruntimeconfig.cache

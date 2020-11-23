@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\bin\Debug\netcoreapp3.1\ConversaoTipos01.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\bin\Debug\netcoreapp3.1\ConversaoTipos01.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\bin\Debug\netcoreapp3.1\ConversaoTipos01.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\bin\Debug\netcoreapp3.1\ConversaoTipos01.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\bin\Debug\netcoreapp3.1\ConversaoTipos01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\bin\Debug\netcoreapp3.1\ConversaoTipos01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\obj\Debug\netcoreapp3.1\ConversaoTipos01.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\obj\Debug\netcoreapp3.1\ConversaoTipos01.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\obj\Debug\netcoreapp3.1\ConversaoTipos01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\obj\Debug\netcoreapp3.1\ConversaoTipos01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\obj\Debug\netcoreapp3.1\ConversaoTipos01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos01\obj\Debug\netcoreapp3.1\ConversaoTipos01.genruntimeconfig.cache

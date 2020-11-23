@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExemploVariavelTipada1/1.0.0": {
+        "runtime": {
+          "ExemploVariavelTipada1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploVariavelTipada1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

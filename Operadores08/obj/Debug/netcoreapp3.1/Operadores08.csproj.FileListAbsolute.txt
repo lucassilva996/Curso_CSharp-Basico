@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\bin\Debug\netcoreapp3.1\Operadores08.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\bin\Debug\netcoreapp3.1\Operadores08.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\bin\Debug\netcoreapp3.1\Operadores08.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\bin\Debug\netcoreapp3.1\Operadores08.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\bin\Debug\netcoreapp3.1\Operadores08.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\bin\Debug\netcoreapp3.1\Operadores08.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\obj\Debug\netcoreapp3.1\Operadores08.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\obj\Debug\netcoreapp3.1\Operadores08.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\obj\Debug\netcoreapp3.1\Operadores08.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\obj\Debug\netcoreapp3.1\Operadores08.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\obj\Debug\netcoreapp3.1\Operadores08.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\Operadores08\obj\Debug\netcoreapp3.1\Operadores08.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\bin\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\bin\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\bin\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\bin\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\bin\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\bin\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\obj\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\obj\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\obj\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\obj\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\obj\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ExemploEstruturasDecisao01\obj\Debug\netcoreapp3.1\ExemploEstruturasDecisao01.genruntimeconfig.cache

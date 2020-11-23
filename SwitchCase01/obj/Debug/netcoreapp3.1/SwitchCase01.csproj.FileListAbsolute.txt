@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\bin\Debug\netcoreapp3.1\SwitchCase01.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\bin\Debug\netcoreapp3.1\SwitchCase01.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\bin\Debug\netcoreapp3.1\SwitchCase01.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\bin\Debug\netcoreapp3.1\SwitchCase01.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\bin\Debug\netcoreapp3.1\SwitchCase01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\bin\Debug\netcoreapp3.1\SwitchCase01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\obj\Debug\netcoreapp3.1\SwitchCase01.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\obj\Debug\netcoreapp3.1\SwitchCase01.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\obj\Debug\netcoreapp3.1\SwitchCase01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\obj\Debug\netcoreapp3.1\SwitchCase01.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\obj\Debug\netcoreapp3.1\SwitchCase01.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\SwitchCase01\obj\Debug\netcoreapp3.1\SwitchCase01.genruntimeconfig.cache

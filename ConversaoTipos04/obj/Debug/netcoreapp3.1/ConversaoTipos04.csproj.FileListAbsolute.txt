@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\bin\Debug\netcoreapp3.1\ConversaoTipos04.exe
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\bin\Debug\netcoreapp3.1\ConversaoTipos04.deps.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\bin\Debug\netcoreapp3.1\ConversaoTipos04.runtimeconfig.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\bin\Debug\netcoreapp3.1\ConversaoTipos04.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\bin\Debug\netcoreapp3.1\ConversaoTipos04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\bin\Debug\netcoreapp3.1\ConversaoTipos04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\obj\Debug\netcoreapp3.1\ConversaoTipos04.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\obj\Debug\netcoreapp3.1\ConversaoTipos04.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\obj\Debug\netcoreapp3.1\ConversaoTipos04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\obj\Debug\netcoreapp3.1\ConversaoTipos04.dll
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\obj\Debug\netcoreapp3.1\ConversaoTipos04.pdb
+C:\Users\lucas\Desktop\CURSO-Macoratti\Pratica\Curso_CSharp-Basico\ConversaoTipos04\obj\Debug\netcoreapp3.1\ConversaoTipos04.genruntimeconfig.cache
